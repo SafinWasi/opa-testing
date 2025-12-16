@@ -1,0 +1,16 @@
+{
+    "projectName": "test",
+    "description": "test",
+    "type": "community",
+    "author": "SafinWasi",
+    "version": "0.0.1",
+    "authorWebsite": "https://github.com",
+    "githubUri": "https://github.com",
+    "license": "apache-2.0",
+    "lastUpdated": "1707751209497",
+    "tags": [
+        "openid-connect"
+    ],
+    "noDirectLaunch": [],
+    "configs": {}
+}
